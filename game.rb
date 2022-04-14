@@ -9,5 +9,6 @@ s = Square.new
 # Give it some color
 s.color = 'red'
 
+# Test
 # Show the window
 show
